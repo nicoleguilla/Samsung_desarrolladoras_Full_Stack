@@ -1,0 +1,206 @@
+<supermercados>
+  <supermercado>
+    <nombre>Mercadona</nombre>
+    <direccion>C. Albéniz, 35</direccion>
+    <codigoPostal>29014</codigoPostal>
+    <geolocalizacion>https://goo.gl/maps/ADfQ3mLd1c1rM9fX6</geolocalizacion>
+    <productos>
+      <panaderia>
+        <producto>
+          <nombre>Pan blanco familiar</nombre>
+          <marca>Hacendado</marca>
+          <informacion>
+            <unidades>1</unidades>
+            <fresco>true</fresco>
+            <formato>envasado</formato>
+            <cantidad>820</cantidad>
+            <unidadMedida>gramos</unidadMedida>
+          </informacion>
+          <precioVenta>1.25</precioVenta>
+          <enOferta>true</enOferta>
+          <comprado>false</comprado>
+        </producto>
+        <producto>
+          <nombre>Pan molde 100 % integral</nombre>
+          <marca>Hacendado</marca>
+          <informacion>
+            <unidades>1</unidades>
+            <fresco>true</fresco>
+            <formato>envasado</formato>
+            <cantidad>820</cantidad>
+            <unidadMedida>gramos</unidadMedida>
+          </informacion>
+          <precioVenta>1.25</precioVenta>
+          <enOferta>false</enOferta>
+          <comprado>true</comprado>
+        </producto>
+      </panaderia>
+      <fruteria>
+        <producto>
+          <nombre>Tomate</nombre>
+          <marca></marca>
+          <informacion>
+            <unidades>1</unidades>
+            <fresco>true</fresco>
+            <formato>al peso</formato>
+            <cantidad>200</cantidad>
+            <unidadMedida>gramos</unidadMedida>
+          </informacion>
+          <precioVenta>1.25</precioVenta>
+          <enOferta>true</enOferta>
+          <comprado>true</comprado>
+        </producto>
+        <producto>
+          <nombre>Banana</nombre>
+          <marca></marca>
+          <informacion>
+            <unidades>1</unidades>
+            <fresco>true</fresco>
+            <formato>al peso</formato>
+            <cantidad>1.5</cantidad>
+            <unidadMedida>kilogramos</unidadMedida>
+          </informacion>
+          <precioVenta>1.49</precioVenta>
+          <enOferta>false</enOferta>
+          <comprado>true</comprado>
+        </producto>
+      </fruteria>
+    </productos>
+  </supermercado>
+  <supermercado>
+    <nombre>Lidl</nombre>
+    <direccion>Av. de los Pascueros, 3</direccion>
+    <codigoPostal>29013</codigoPostal>
+    <geolocalizacion>https://goo.gl/maps/GTRwksUX7AzFvKKh7</geolocalizacion>
+    <productos>
+      <panaderia>
+        <producto>
+          <nombre>Pan molde integral</nombre>
+          <marca>Oroweat</marca>
+          <informacion>
+            <unidades>1</unidades>
+            <fresco>true</fresco>
+            <formato>envasado</formato>
+            <cantidad>500</cantidad>
+            <unidadMedida>gramos</unidadMedida>
+          </informacion>
+          <precioVenta>1.30</precioVenta>
+          <enOferta>true</enOferta>
+          <comprado>false</comprado>
+        </producto>
+        <producto>
+          <nombre>Pan molde Blanco</nombre>
+          <marca>La cestera</marca>
+          <informacion>
+            <unidades>2</unidades>
+            <fresco>true</fresco>
+            <formato>envasado</formato>
+            <cantidad>300</cantidad>
+            <unidadMedida>gramos</unidadMedida>
+          </informacion>
+          <precioVenta>2.50</precioVenta>
+          <enOferta>false</enOferta>
+          <comprado>true</comprado>
+        </producto>
+      </panaderia>
+      <fruteria>
+        <producto>
+          <nombre>Limon</nombre>
+          <marca></marca>
+          <informacion>
+            <unidades>1</unidades>
+            <fresco>true</fresco>
+            <formato>al peso</formato>
+            <cantidad>580</cantidad>
+            <unidadMedida>gramos</unidadMedida>
+          </informacion>
+          <precioVenta>2.3</precioVenta>
+          <enOferta>true</enOferta>
+          <comprado>true</comprado>
+        </producto>
+        <producto>
+          <nombre>Naranja</nombre>
+          <marca></marca>
+          <informacion>
+            <unidades>1</unidades>
+            <fresco>true</fresco>
+            <formato>al peso</formato>
+            <cantidad>800</cantidad>
+            <unidadMedida>gramos</unidadMedida>
+          </informacion>
+          <precioVenta>3.54</precioVenta>
+          <enOferta>false</enOferta>
+          <comprado>true</comprado>
+        </producto>
+      </fruteria>
+    </productos>
+  </supermercado>
+  <supermercado>
+    <nombre>Dia</nombre>
+    <direccion>C. Albéniz, 38</direccion>
+    <codigoPostal>29014</codigoPostal>
+    <geolocalizacion>https://goo.gl/maps/FGrHuVZGhrDC1L5WA</geolocalizacion>
+    <productos>
+      <panaderia>
+        <producto>
+          <nombre>Pan molde integral</nombre>
+          <marca>La cestera</marca>
+          <informacion>
+            <unidades>1</unidades>
+            <fresco>true</fresco>
+            <formato>al peso</formato>
+            <cantidad>400</cantidad>
+            <unidadMedida>gramos</unidadMedida>
+          </informacion>
+          <precioVenta>1.20</precioVenta>
+          <enOferta>true</enOferta>
+          <comprado>true</comprado>
+        </producto>
+        <producto>
+          <nombre>Pan blanco familiar</nombre>
+          <marca>La cestera</marca>
+          <informacion>
+            <unidades>1</unidades>
+            <fresco>true</fresco>
+            <formato>envasado</formato>
+            <cantidad>400</cantidad>
+            <unidadMedida>gramos</unidadMedida>
+          </informacion>
+          <precioVenta>2.38</precioVenta>
+          <enOferta>false</enOferta>
+          <comprado>false</comprado>
+        </producto>
+      </panaderia>
+      <fruteria>
+        <producto>
+          <nombre>Mandarina</nombre>
+          <marca></marca>
+          <informacion>
+            <unidades>1</unidades>
+            <fresco>true</fresco>
+            <formato>al peso</formato>
+            <cantidad>250</cantidad>
+            <unidadMedida>gramos</unidadMedida>
+          </informacion>
+          <precioVenta>0.79</precioVenta>
+          <enOferta>false</enOferta>
+          <comprado>false</comprado>
+        </producto>
+        <producto>
+          <nombre>Mango</nombre>
+          <marca></marca>
+          <informacion>
+            <unidades>1</unidades>
+            <fresco>true</fresco>
+            <formato>al peso</formato>
+            <cantidad>400</cantidad>
+            <unidadMedida>gramos</unidadMedida>
+          </informacion>
+          <precioVenta>2.39</precioVenta>
+          <enOferta>false</enOferta>
+          <comprado>false</comprado>
+        </producto>
+      </fruteria>
+    </productos>
+  </supermercado>
+</supermercados>

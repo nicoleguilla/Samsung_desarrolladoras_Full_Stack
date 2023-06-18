@@ -1,0 +1,208 @@
+{
+  "supermercados": [
+    {
+      "nombre": "Mercadona",
+      "direccion": "C. Albéniz, 35",
+      "codigoPostal": 29014,
+      "geolocalizacion": "https://goo.gl/maps/ADfQ3mLd1c1rM9fX6",
+      "productos": {
+        "panaderia": [
+          {
+            "producto": "Pan blanco familiar",
+            "marca": "Hacendado",
+            "informacion": {
+              "unidades": 1,
+              "fresco": true,
+              "formato": "envasado",
+              "cantidad":  820,
+              "unidadMedida": "gramos"
+            },
+            "precioVenta": 1.25,
+            "enOferta": true,
+            "comprado": false
+          },
+          {
+            "producto": "Pan molde 100 % integral",
+            "marca": "Hacendado",
+            "informacion": {
+              "unidades": 1,
+              "fresco": true,
+              "formato": "envasado",
+              "cantidad":  820,
+              "unidadMedida": "gramos"
+            },
+            "precioVenta": 1.25,
+            "enOferta": false,
+            "comprado": true
+          }
+        ],
+        "fruteria": [
+          {
+            "producto": "Tomate",
+            "marca": null,
+            "informacion": {
+              "unidades": 1,
+              "fresco": true,
+              "formato": "al peso",
+              "cantidad": 200,
+              "unidadMedida": "gramos"
+            },
+            "precioVenta": 1.25,
+            "enOferta": true,
+            "comprado": true
+          },
+          {
+            "producto": "Banana",
+            "marca": null,
+            "informacion": {
+              "unidades": 1,
+              "fresco": true,
+              "formato": "al peso",
+              "cantidad": 1.5,
+              "unidadMedida": "kilogramos"
+            },
+            "precioVenta": 1.49,
+            "enOferta": false,
+            "comprado": true
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Lidl",
+      "direccion": "Av. de los Pascueros, 3",
+      "codigoPostal": 29013,
+      "geolocalizacion": "https://goo.gl/maps/GTRwksUX7AzFvKKh7",
+      "productos": {
+        "panaderia": [
+          {
+            "producto": "Pan molde integral",
+            "marca": "Oroweat",
+            "informacion": {
+              "unidades": 1,
+              "fresco": true,
+              "formato": "envasado",
+              "cantidad": 500,
+              "unidadMedida": "gramos"
+            },
+            "precioVenta": 1.30,
+            "enOferta": true,
+            "comprado": false
+          },
+          {
+            "producto": "Pan molde Blanco",
+            "marca": "La cestera",
+            "informacion": {
+              "unidades": 2,
+              "fresco": true,
+              "formato": "envasado",
+              "cantidad": 300,
+              "unidadMedida": "gramos"
+            },
+            "precioVenta": 2.50,
+            "enOferta": false,
+            "comprado": true
+          }
+        ],
+        "fruteria": [
+          {
+            "producto": "Limon",
+            "marca": null,
+            "informacion": {
+              "unidades": 1,
+              "fresco": true,
+              "formato": "al peso",
+              "cantidad": 580,
+              "unidadMedida": "gramos"
+            },
+            "precioVenta": 2.3,
+            "enOferta": true,
+            "comprado": true
+          },
+          {
+            "producto": "Naranja",
+            "marca": null,
+            "informacion": {
+              "unidades": 1,
+              "fresco": true,
+              "formato": "al peso",
+              "cantidad": 800,
+              "unidadMedida": "gramos"
+            },
+            "precioVenta": 3.54,
+            "enOferta": false,
+            "comprado": true
+          }
+        ]
+      }
+    },
+    {
+      "nombre": "Dia",
+      "direccion": "C. Albéniz, 38",
+      "codigoPostal": 29014,
+      "geolocalizacion": "https://goo.gl/maps/FGrHuVZGhrDC1L5WA",
+      "productos": {
+        "panaderia": [
+          {
+            "producto": "Pan molde integral",
+            "marca": "La cestera",
+            "informacion": {
+              "unidades": 1,
+              "fresco": true,
+              "formato": "al peso",
+              "cantidad": 400,
+              "unidadMedida": "gramos"
+            },
+            "precioVenta": 1.20,
+            "enOferta": true,
+            "comprado": true
+          },
+          {
+            "producto": "Pan blanco familiar",
+            "marca": "La cestera",
+            "informacion": {
+              "unidades": 1,
+              "fresco": true,
+              "formato": "envasado",
+              "cantidad":  400,
+              "unidadMedida": "gramos"
+            },
+            "precioVenta": 2.38,
+            "enOferta": false,
+            "comprado": false
+          }
+        ],
+        "fruteria": [
+          {
+            "producto": "Mandarina",
+            "marca": null,
+            "informacion": {
+              "unidades": 1,
+              "fresco": true,
+              "formato": "al peso",
+              "cantidad": 250,
+              "unidadMedida": "gramos"
+            },
+            "precioVenta": 0.79,
+            "enOferta": false,
+            "comprado": false
+          },
+          {
+            "producto": "Mango",
+            "marca": null,
+            "informacion": {
+              "unidades": 1,
+              "fresco": true,
+              "formato": "al peso",
+              "cantidad": 400,
+              "unidadMedida": "gramos"
+            },
+            "precioVenta": 2.39,
+            "enOferta": false,
+            "comprado": false
+          }
+        ]
+      }
+    }
+  ]
+}

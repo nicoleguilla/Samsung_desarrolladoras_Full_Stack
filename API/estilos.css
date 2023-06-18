@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+
+html {
+    height: 100%;
+    display: table;
+    margin: auto;
+  }
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(17, 16, 16);
+    vertical-align: middle;
+    display: table-cell;
+    height: 100%;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 23px;
+    color: white;
+}
+
+#select-button, #play-button, #pause-button,
+#volume-down-button, #volume-up-button {
+    padding: 10px 30px;
+    color: white; 
+    background-color: transparent;
+    border: 3px solid #4d4d4e;
+    border-radius: 10px;
+    font-size: 18px;
+    text-align: center;
+    width: 200px;
+    margin: 0 auto;
+}
+
+#select-button:hover, #play-button:hover, #pause-button:hover,
+#volume-down-button:hover, #volume-up-button:hover {
+    border: 3px solid #4d4d4e;
+    background-color: #4d4d4e;
+}
+
+::file-selector-button {
+    display: none;
+}
+
+#video {
+    display: none;
+    width: 1280px;
+    height: 720px;
+    margin: 10px;
+}
+
+#custom-controls {
+    display: none;
+}
+
+#loader {
+    display: none;
+    background-image: url('img/loading_gif.gif');
+    position: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color:#1c1c1c;
+    opacity: 0.8;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    background-size: 100px 100px;
+}
